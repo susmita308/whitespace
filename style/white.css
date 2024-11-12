@@ -1,0 +1,26 @@
+.nav{display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 10px;
+    background-color: darkblue;
+    color: white;
+    }
+     .ul{display: flex;
+        margin-right: 40px;
+    align-items: center;}
+.ul li{list-style: none;
+.nav-link{color:white;}
+}
+.imgs{margin-left: 40px;}
+.ban{margin: 100px;
+display: flex;
+gap: 40px;}
+.backs{margin-left:100px;}
+.full{margin: 0px 10px;}
+.new{margin-left: 60px;}
+.copy{background-color: darkblue;
+margin: 80px;
+color: white;}
+.bans{margin: 60px;}
+.back{margin-top: 40px;}
+.bant{margin-left: 60px;}
